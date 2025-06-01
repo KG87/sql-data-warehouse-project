@@ -101,3 +101,17 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+
+---
+
+## 🌟 About Me
+
+Hi there! I'm **Kenroy Green**, also known as **KG**. I'm a Data Professional with a passion for building scalable, insightful solutions using SQL, Power BI, and cloud-based data engineering. This project is part of my ongoing mission to sharpen my craft, explore real-world patterns, and make working with data more enjoyable and impactful.
+
+Let’s stay in touch! You can find me here:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kenroy-green-73b583ba/)  
+[![GitHub](https://img.shields.io/badge/GitHub-KG87-lightgrey)](https://github.com/KG87)
+
+---
+
